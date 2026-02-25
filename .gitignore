@@ -1,0 +1,5 @@
+# Local team context — do not commit
+clearskies.local.md
+
+# Local Claude settings
+.claude/settings.local.json

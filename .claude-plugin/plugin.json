@@ -1,0 +1,9 @@
+{
+  "name": "clearskies",
+  "description": "GTM intelligence powered by the Clearskies Customer Context Graph — a unified layer across CRM, calls, email, calendar, and Slack. Build agents, research accounts, monitor deal risk, and draft outreach grounded in complete buyer context.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Clearskies",
+    "url": "https://clearskies.cc"
+  }
+}

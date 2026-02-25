@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "clearskies": {
+      "type": "url",
+      "url": "YOUR_CLEARSKIES_MCP_SERVER_URL",
+      "note": "Get your MCP URL from Clearskies → MCP Server in the sidebar"
+    }
+  }
+}
