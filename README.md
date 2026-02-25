@@ -9,7 +9,7 @@ Works standalone with web search and your input. Supercharged when you connect y
 ## Installation
 
 ```bash
-claude plugins add clearskies
+claude plugin install clearskies@scratchpad-ai/clearskies-cowork-plugin
 ```
 
 ---
