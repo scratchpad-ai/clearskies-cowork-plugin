@@ -119,14 +119,14 @@ Every command and skill works without any integrations:
 
 Configure connectors in `.mcp.json`. Supported integrations:
 
-| Category | Examples | What It Enables |
-|---|---|---|
-| **CRM** | HubSpot, Salesforce, Close | Deal data, contact records, account history |
-| **Email** | Gmail, Outlook | Thread history, follow-up drafting, send |
-| **Calendar** | Google Calendar, Outlook | Meeting context, attendee lookup |
-| **Transcripts** | Gong, Fireflies, Chorus | Call recordings, transcript extraction |
-| **Enrichment** | Apollo, Clay, ZoomInfo | Verified contact data, company intel |
-| **Chat** | Slack, Teams | Internal account discussions, colleague intel |
+| Integration | What It Enables |
+|---|---|
+| **Salesforce** | Deal data, contact records, account history |
+| **Gong** | Call recordings, transcript extraction |
+| **Scratchpad** | Call recordings, transcript extraction |
+| **Google** | Email threads, calendar, meeting context |
+| **Microsoft** | Email threads, calendar, meeting context |
+| **Slack** | Internal account discussions, colleague intel |
 
 ---
 
