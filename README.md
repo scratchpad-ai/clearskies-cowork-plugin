@@ -103,15 +103,16 @@ The `draft-outreach` skill researches the prospect first, then generates persona
 
 Every command and skill works without any integrations:
 
+
 | What You Can Do | Standalone | Supercharged With |
 |---|---|---|
-| Account research | Web search | Enrichment MCP (Clay, Apollo, ZoomInfo) |
-| Call prep | Describe meeting, paste context | CRM, Email, Calendar, Transcripts MCPs |
-| Deal risk scoring | Describe deal | CRM (deal data, activity) |
-| Pipeline review | Upload CSV, paste deals | CRM MCP |
-| Post-call processing | Paste notes / transcript | Transcripts MCP, CRM, Email |
-| Draft outreach | Web search + your context | Enrichment, CRM, Email MCPs |
-| Account context graph | Manual input | CRM, Email, Transcripts, Slack |
+| Account research | Web search | Salesforce, Gong, Scratchpad |
+| Call prep | Describe meeting, paste context | Salesforce, Google, Microsoft, Gong, Scratchpad |
+| Deal risk scoring | Describe deal | Salesforce, Gong, Scratchpad |
+| Pipeline review | Upload CSV, paste deals | Salesforce |
+| Post-call processing | Paste notes / transcript | Gong, Scratchpad, Salesforce, Google, Microsoft |
+| Draft outreach | Web search + your context | Salesforce, Google, Microsoft |
+| Account context graph | Manual input | Salesforce, Gong, Scratchpad, Google, Microsoft, Slack |
 
 ---
 
