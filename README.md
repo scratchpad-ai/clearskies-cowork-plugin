@@ -1,8 +1,6 @@
-# Clearskies Sales Plugin
+# Clearskies Plugin
 
-A sales intelligence plugin for [Cowork](https://claude.com/product/cowork) and Claude Code. Built for the Clearskies team — gives you full account context, deal risk scoring, post-call workflows, and personalized outreach without leaving your workflow.
-
-Works standalone with web search and your input. Supercharged when you connect your CRM, email, calendar, and call transcripts.
+An agent builder for revenue teams, available as a plugin for [Cowork](https://claude.com/product/cowork) and Claude Code. Connects your Context Graph to Claude — giving your GTM team full account context, deal risk scoring, post-call workflows, and personalized outreach without leaving their workflow. Works standalone with web search and your input. Supercharged when you connect your CRM, email, calendar, and call transcripts.
 
 ---
 
@@ -112,7 +110,7 @@ Every command and skill works without any integrations:
 | Pipeline review | Upload CSV, paste deals | Salesforce |
 | Post-call processing | Paste notes / transcript | Gong, Scratchpad, Salesforce, Google, Microsoft |
 | Draft outreach | Web search + your context | Salesforce, Google, Microsoft |
-| Account context graph | Manual input | Salesforce, Gong, Scratchpad, Google, Microsoft, Slack |
+| Context graph | Manual input | Salesforce, Gong, Scratchpad, Google, Microsoft, Slack |
 
 ---
 
