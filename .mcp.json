@@ -2,7 +2,7 @@
   "mcpServers": {
     "clearskies": {
       "type": "sse",
-      "url": "YOUR_CLEARSKIES_MCP_SERVER_URL"
+      "url": "https://mcp.clearskies.cc"
     }
   }
 }
