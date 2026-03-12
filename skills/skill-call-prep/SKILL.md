@@ -1,5 +1,5 @@
 ---
-name: call-prep
+name: skill-call-prep
 description: Prepare a call brief using the Customer Context Graph — account context, recent activity across all sources, attendee research, suggested agenda, and discovery questions.
 ---
 

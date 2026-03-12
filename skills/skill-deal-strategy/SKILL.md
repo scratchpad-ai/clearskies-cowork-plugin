@@ -1,5 +1,5 @@
 ---
-name: deal-strategy
+name: skill-deal-strategy
 description: CRO-mode deal strategy — stop describing the situation and find the one move that changes the deal. Identifies the real buyer, the real blocker, what must be true to close, and when to push the date or qualify out.
 ---
 

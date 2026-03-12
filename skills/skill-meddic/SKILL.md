@@ -1,5 +1,5 @@
 ---
-name: meddic
+name: skill-meddic
 description: MEDDIC qualification auditor — score each criterion against real evidence from calls, emails, CRM, and Slack. Not rep self-reporting. Every gap gets a score and a specific evidence statement.
 ---
 

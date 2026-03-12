@@ -36,15 +36,15 @@ Domain knowledge Claude uses automatically when relevant:
 
 | Skill | Description |
 |---|---|
-| `customer-context-graph` | Builds a holistic view of an account — org chart, relationships, sentiment, history, open items |
-| `account-research` | Web + enrichment research on a company or contact — news, signals, key people, recommended angle |
-| `call-prep` | Synthesizes account context into a complete pre-call brief — snapshot, open items, agenda, key opening question |
-| `deal-review` | Paranoid deal audit — surfaces risk signals across champion, economic buyer, comms, close date, velocity |
-| `deal-strategy` | CRO-mode deal reasoning — situation assessment, the move, what must be true, push/qualify out recommendation |
-| `meddic` | Evidence-based MEDDIC qualification — scores each criterion against actual call and email data, not CRM fields |
-| `post-call-workflow` | Structures raw notes or transcripts into summaries, action items, and follow-up drafts |
-| `rep-coaching` | Surfaces behavioral patterns across calls with timestamped quotes, and drafts specific written coaching feedback |
-| `draft-outreach` | Research-first outreach — researches prospect before drafting, generates personalized email + LinkedIn |
+| `skill-customer-context-graph` | Builds a holistic view of an account — org chart, relationships, sentiment, history, open items |
+| `skill-account-research` | Web + enrichment research on a company or contact — news, signals, key people, recommended angle |
+| `skill-call-prep` | Synthesizes account context into a complete pre-call brief — snapshot, open items, agenda, key opening question |
+| `skill-deal-review` | Paranoid deal audit — surfaces risk signals across champion, economic buyer, comms, close date, velocity |
+| `skill-deal-strategy` | CRO-mode deal reasoning — situation assessment, the move, what must be true, push/qualify out recommendation |
+| `skill-meddic` | Evidence-based MEDDIC qualification — scores each criterion against actual call and email data, not CRM fields |
+| `skill-post-call-workflow` | Structures raw notes or transcripts into summaries, action items, and follow-up drafts |
+| `skill-rep-coaching` | Surfaces behavioral patterns across calls with timestamped quotes, and drafts specific written coaching feedback |
+| `skill-draft-outreach` | Research-first outreach — researches prospect before drafting, generates personalized email + LinkedIn |
 
 ---
 

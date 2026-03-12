@@ -1,5 +1,5 @@
 ---
-name: account-research
+name: skill-account-research
 description: Research a company or contact using the Clearskies Customer Context Graph — pulling unified context from CRM, calls, email, calendar, and Slack.
 ---
 

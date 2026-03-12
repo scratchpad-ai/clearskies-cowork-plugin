@@ -1,5 +1,5 @@
 ---
-name: deal-review
+name: skill-deal-review
 description: Paranoid deal reviewer — audit every risk signal before it costs you the deal. Champion engagement, economic buyer status, unanswered comms, close date decay, deal velocity. Not a vibe check. A full Context Graph audit.
 ---
 

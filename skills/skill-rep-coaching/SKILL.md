@@ -1,5 +1,5 @@
 ---
-name: rep-coaching
+name: skill-rep-coaching
 description: Sales manager mode — pull call transcripts for a rep, surface coaching moments with exact timestamps and quotes, identify behavioral patterns across calls, and draft specific written feedback. No manual listening required.
 ---
 

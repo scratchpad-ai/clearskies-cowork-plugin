@@ -1,5 +1,5 @@
 ---
-name: customer-context-graph
+name: skill-customer-context-graph
 description: Understand and explain the Clearskies Customer Context Graph — what it is, what data it contains, and how to query it for complete buyer context.
 ---
 

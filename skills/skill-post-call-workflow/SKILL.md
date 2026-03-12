@@ -1,5 +1,5 @@
 ---
-name: post-call-workflow
+name: skill-post-call-workflow
 description: After a call, extract action items, draft follow-up communications, generate a CRM summary, and identify what needs to be updated — all from the call transcript in the Customer Context Graph.
 ---
 

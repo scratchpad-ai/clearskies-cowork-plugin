@@ -1,5 +1,5 @@
 ---
-name: draft-outreach
+name: skill-draft-outreach
 description: Draft personalized outreach — email or LinkedIn — grounded in Customer Context Graph signal data for a specific contact or account. Always research before writing.
 ---
 
