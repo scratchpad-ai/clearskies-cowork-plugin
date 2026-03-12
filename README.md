@@ -21,7 +21,6 @@ Explicit workflows you invoke with a slash command:
 | `/account-brief` | Full account brief — company overview, stakeholders, deal history, recommended approach |
 | `/call-prep` | Complete pre-call brief — account snapshot, open items, contact context, suggested agenda, key opening question |
 | `/deal-review` | Paranoid deal audit — champion engagement, economic buyer status, unanswered comms, close date health, velocity |
-| `/deal-risk` | Score deal health — flag risks, identify gaps, surface a recommended action plan |
 | `/deal-strategy` | CRO-mode strategy — find the one move that changes the deal, what must be true to close, when to push or qualify out |
 | `/meddic` | Evidence-based MEDDIC audit — score every criterion against real signals, not rep self-reporting |
 | `/pipeline-review` | Pipeline health ranked by urgency — engagement drops, stalled close dates, missing stakeholders, action plan |
@@ -41,7 +40,6 @@ Domain knowledge Claude uses automatically when relevant:
 | `account-research` | Web + enrichment research on a company or contact — news, signals, key people, recommended angle |
 | `call-prep` | Synthesizes account context into a complete pre-call brief — snapshot, open items, agenda, key opening question |
 | `deal-review` | Paranoid deal audit — surfaces risk signals across champion, economic buyer, comms, close date, velocity |
-| `deal-risk` | Evaluates deal health and scores risk factors — MEDDIC gaps, stakeholder coverage, activity signals |
 | `deal-strategy` | CRO-mode deal reasoning — situation assessment, the move, what must be true, push/qualify out recommendation |
 | `meddic` | Evidence-based MEDDIC qualification — scores each criterion against actual call and email data, not CRM fields |
 | `post-call-workflow` | Structures raw notes or transcripts into summaries, action items, and follow-up drafts |
@@ -101,14 +99,6 @@ Get a one-paragraph situation assessment (no hedging), the one move that changes
 
 Get recurring behavioral patterns across calls, 2–3 specific coaching moments with timestamps and exact quotes, what to say to the rep, and a draft 1:1 feedback note ready to send.
 
-### Scoring a Deal
-
-```
-/deal-risk Acme Corp
-```
-
-Get a risk score across MEDDIC dimensions, activity signals, stakeholder coverage, and a prioritized list of gaps to close.
-
 ### Reviewing Pipeline
 
 ```
@@ -147,7 +137,6 @@ Every command and skill works without any integrations:
 | Account research | Web search | Salesforce, Gong, Scratchpad |
 | Call prep | Describe meeting, paste context | Salesforce, Google, Microsoft, Gong, Scratchpad |
 | Deal review | Describe deal + recent activity | Salesforce, Gong, Scratchpad, Slack |
-| Deal risk scoring | Describe deal | Salesforce, Gong, Scratchpad |
 | Deal strategy | Describe deal + gaps | Salesforce, Gong, Scratchpad |
 | MEDDIC audit | Describe deal + qualification | Salesforce, Gong, Scratchpad |
 | Pipeline review | Upload CSV, paste deals | Salesforce |
