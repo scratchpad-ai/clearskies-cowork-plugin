@@ -27,6 +27,10 @@ Explicit workflows you invoke with a slash command:
 | `/post-call` | Process call notes or transcript — action items, internal summary, draft follow-up email |
 | `/rep-coaching` | Pull transcripts, surface coaching moments with timestamps, identify patterns, draft 1:1 feedback |
 | `/draft-outreach` | Research a prospect and draft personalized outreach — email and LinkedIn |
+| `/daily-brief` | Morning sales leadership briefing — what closed, what's at risk, what's on the calendar, and the one thing that needs attention today |
+| `/qbr-prep` | Prepare for a QBR — internal (for leadership) or external (with a customer) — account history, progress, open items, agenda |
+| `/win-loss` | Analyze patterns across won and lost deals — why we win, why we lose, competitive picture, qualification gaps |
+| `/churn-risk` | Identify customers at risk of churning — engagement drops, champion changes, renewal proximity, ranked by risk level |
 
 ---
 
@@ -38,13 +42,8 @@ Domain knowledge Claude uses automatically when relevant:
 |---|---|
 | `skill-customer-context-graph` | Builds a holistic view of an account — org chart, relationships, sentiment, history, open items |
 | `skill-account-research` | Web + enrichment research on a company or contact — news, signals, key people, recommended angle |
-| `skill-call-prep` | Synthesizes account context into a complete pre-call brief — snapshot, open items, agenda, key opening question |
-| `skill-deal-review` | Paranoid deal audit — surfaces risk signals across champion, economic buyer, comms, close date, velocity |
-| `skill-deal-strategy` | CRO-mode deal reasoning — situation assessment, the move, what must be true, push/qualify out recommendation |
-| `skill-meddic` | Evidence-based MEDDIC qualification — scores each criterion against actual call and email data, not CRM fields |
-| `skill-post-call-workflow` | Structures raw notes or transcripts into summaries, action items, and follow-up drafts |
-| `skill-rep-coaching` | Surfaces behavioral patterns across calls with timestamped quotes, and drafts specific written coaching feedback |
-| `skill-draft-outreach` | Research-first outreach — researches prospect before drafting, generates personalized email + LinkedIn |
+| `skill-qbr-prep` | Auto-triggers on QBR or executive review mentions — surfaces account history, open items, and progress context |
+| `skill-churn-risk` | Auto-triggers on existing customer conversations — proactively surfaces churn signals, renewal proximity, relationship health |
 
 ---
 
