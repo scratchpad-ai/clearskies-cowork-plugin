@@ -10,12 +10,7 @@
   "plugins": [
     {
       "name": "clearskies",
-      "source": "./",
-      "description": "GTM intelligence powered by the Clearskies Customer Context Graph — a unified layer across CRM, calls, email, calendar, and Slack.",
-      "version": "1.3.0",
-      "author": {
-        "name": "Clearskies"
-      },
+      "source": "./plugins/clearskies",
       "homepage": "https://clearskies.cc",
       "repository": "https://github.com/scratchpad-ai/clearskies-cowork-plugin",
       "category": "sales"
